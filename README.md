@@ -19,4 +19,5 @@ The list of words to censor, all in lowercase.
 The censored text. Its length should be the same as the length of text.
 
 Example
+<br>
 For text = "The cat does not like the fire" and forbiddenWords = ["cat","fire"], the output should be "The *** does not like the ****".
